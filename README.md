@@ -1,6 +1,7 @@
-# Prumoboard
+<p align="center">
+   <img height="300" src="./prumoBoard.png" />
+</p>
 
-<center><img height="300" src="./prumoBoard.png" /></center>
 <p align="center">
     <a href="#"><img src="https://github.com/WalderlanSena/tagsGit/blob/master/licenseMIT.svg" alt="License"></a>
 </p>
