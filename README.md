@@ -1,7 +1,15 @@
 # Prumoboard
-Prumo Board is an open hardware platform designed for education, research, and experimentation in embedded systems, wireless protocols, and applied electronics. Built around the ESP32-S3, it combines Sub-GHz communication, NFC/RFID, infrared, Wi-Fi, and Bluetooth capabilities into a single modular and portable device.
 
-The project aims to provide an accessible tool for students, makers, researchers, and developers who want to better understand how communication technologies work in practice while encouraging learning, rapid prototyping, and custom application development.
+<center><img height="300" src="./prumoBoard.png" /></center>
+<p align="center">
+    <a href="#"><img src="https://github.com/WalderlanSena/tagsGit/blob/master/licenseMIT.svg" alt="License"></a>
+</p>
+
+
+Prumo Board is an open hardware platform designed for education, research, and experimentation in embedded systems, wireless protocols, and applied electronics. Built around the ESP32-S3, it combines Sub-GHz communication, NFC/RFID, infrared, Wi-Fi, and Bluetooth capabilities into a single modular and portable device. The project aims to provide an accessible tool for students, makers, researchers, and developers who want to better understand how communication technologies work in practice while encouraging learning, rapid prototyping, and custom application development.
+
+
+### The project aims to integrate various modules and provide reference code for using them in parallel, with the long-term goal of producing a final PCB, although for now, the project focuses on implementing this modular setup using perfboard.
 
 ## Current Hardware
 
@@ -18,3 +26,9 @@ The project aims to provide an accessible tool for students, makers, researchers
 | Navigation | 6x6 mm tactile buttons | User interface control |
 | Structure | FR4 perfboard 7x9 cm | Modular prototype platform |
 | Assembly | M3 nylon standoffs | Module mounting and stacking |
+
+
+## License
+
+The Prumo Board Project is open source software licensed under the [MIT license](https://github.com/WalderlanSena/prumoboard/blob/main/LICENSE).
+
